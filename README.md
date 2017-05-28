@@ -2,6 +2,8 @@
 
 > Simple project to use TDD
 
+[![Build Status](https://travis-ci.org/antfig/phpunit-tdd-training.svg?branch=master)](https://travis-ci.org/antfig/phpunit-tdd-training)
+
 ## Exercise
 
 ### Auction
