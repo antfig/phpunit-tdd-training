@@ -3,6 +3,7 @@
 > Simple project to use TDD
 
 [![Build Status](https://travis-ci.org/antfig/phpunit-tdd-training.svg?branch=master)](https://travis-ci.org/antfig/phpunit-tdd-training)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb5ea132dd474a66a1650505e89a3799)](https://www.codacy.com/app/antfig/phpunit-tdd-training?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=antfig/phpunit-tdd-training&amp;utm_campaign=Badge_Grade)
 
 ## Exercise
 
